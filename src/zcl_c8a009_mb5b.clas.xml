@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_C8A009_MB5B</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>MB5B (STOCK on Date) via memory call</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EXPORT2MEM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Export to memory bestand</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_STOCK_ON_DATE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read Stock On Date</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_STOCK_ON_DATE</CMPNAME>
+     <SCONAME>ET_STOCK</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ZSC8A009_MB5B_LIST_OUTPUT -&gt; tab</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
