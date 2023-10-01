@@ -72,6 +72,7 @@ CLASS zcl_c8a009_mb5b IMPLEMENTATION.
         WITH lgort IN is_sel_criteria-lgort_rng
         WITH matnr IN is_sel_criteria-matnr_rng
         WITH budat IN is_sel_criteria-budat_rng
+        WITH p2mem eq abap_true
         AND RETURN
         .
 
