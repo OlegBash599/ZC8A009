@@ -9,3 +9,6 @@ Approaches how to read stock on posting date in SAP ERP:
 3) via standard parameter for export to memory. in [modern version](https://github.com/OlegBash599/ZC8A009/blob/main/src/zcl_c8a009_mb5b_v2std.clas.abap)
 4) via CDS-view in [HANA-version via CDS](https://github.com/OlegBash599/ZC8A009/blob/main/src/zcl_c8a009_stock_on_date_cds.clas.abap)
 5) with help of Enhancement SPOT (https://sappro.sapland.ru/kb/articles/stats/rasshireniya-sistemi-enhancement-framework-chasti-2.html)
+
+
+Blog is available [here](https://blogs.sap.com/tags/833755570260738661924709785639136/)
