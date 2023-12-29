@@ -11,4 +11,4 @@ Approaches how to read stock on posting date in SAP ERP:
 5) with help of Enhancement SPOT (https://sappro.sapland.ru/kb/articles/stats/rasshireniya-sistemi-enhancement-framework-chasti-2.html)
 
 
-Blog is available [here](https://blogs.sap.com/tags/833755570260738661924709785639136/)
+Blog is available [here](https://blogs.sap.com/2023/12/28/how-to-get-stock-on-posting-date-manually-and-programmatically/)
